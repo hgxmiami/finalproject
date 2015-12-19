@@ -3,6 +3,7 @@
 /*Slider*/
 .slider-relative {
 	position:relative;
+    left: 250px;
 	overflow:visible;
 	margin: 0 auto;
 }
